@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "title":"Product1",
+        "price":100 ,
+        "description":"This is the first product",
+        "imgUrl":"images/img1.jpg"
+
+    },
+    {
+        "id":2,
+        "title":"Product2",
+        "price":200,
+        "description":"This is the second product",
+        "imgUrl":"images/img2.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"Product3",
+        "price":300,
+        "description":"This is the third product",
+        "imgUrl":"images/img3.jpg"
+
+    },
+    {
+        "id":4,
+        "title":"Product4",
+        "price":400,
+        "description":"This is the fourh product",
+        "imgUrl":"images/img4.jpg"
+
+    }
+]
